@@ -31,10 +31,10 @@ npm test
 
 ## Product Requirements
 1. It should be a full stack web application created using React and Express.
-2. Your code for interfacing with the third-party API (iTunes Search API) should
+2. Your code for interfacing with the third-party API (Youtube API) should
 be handled by the back-end of your application.
 3. The front-end of your application should provide an attractive user interface
-that allows users to enter search criteria. The user should be able to enter a search term and also select the type of media they want to search for (e.g. movie, podcast, music, audiobook, short film, TV show, software, ebook or all). The results of the search should be attractively displayed. A user should be able to create a list of their favourite content. The user should be able to remove an item from their list of favourites. The list of the user’s favourite content should also be attractively displayed. The list of favourite content need not be remembered when the user navigates away from or leaves your web application.
+that allows users to enter search criteria. The user should be able to enter a search term and also select the type of media they want to search for (e.g. video, channel, playlist). The results of the search should be attractively displayed. A user should be able to create a list of their favourite content. The user should be able to remove an item from their list of favourites. The list of the user’s favourite content should also be attractively displayed. The list of favourite content need not be remembered when the user navigates away from or leaves your web application.
 4. The UI should be attractive, easy to use and intuitive.
 5. You should ensure that your application has been appropriately tested. You
 should include at least one snapshot test and appropriate unit tests for both
